@@ -3,3 +3,6 @@ gunicorn==21.2.0
 pdfplumber==0.9.0
 python-docx==0.8.11
 nltk==3.8.1
+sentence-transformers==2.7.0
+scikit-learn==1.5.0
+numpy
